@@ -9,9 +9,10 @@ I am a Political Science PhD candidate at UZH. My research lies at the intersect
 1. [Publications](#publications)
 2. [Grants](#grants)
 3. [Teaching](#teaching)
-4. [Education](#education)
-5. [Experience](#experience)
-6. [Data and Resources](#data-and-resources)
+4. [Voluntary Work](#work)
+5. [Education](#education)
+6. [Experience](#experience)
+7. [Data and Resources](#data-and-resources)
 
 # Publications
 
@@ -21,7 +22,7 @@ I am a Political Science PhD candidate at UZH. My research lies at the intersect
 
 ## Working Papers
 
-- **Do Radical Right Parties Change Discursive Political Representation in Europe? Populism and Technocracy in Six European Countrie** - C.Pereira, Presented at EPSA, 2024. 
+- **Do Radical Right Parties Change Discursive Political Representation in Europe? Populism and Technocracy in Six European Countries** - C.Pereira, Presented at EPSA, 2024. 
 - **Gender Bias Detector: party effect in congress speeches** - C.Pereira,C.Marangon, E.Ash, 2024. 
 - **Pandemic Effects in Nationalism Dimensions** -   A. Wimmer, P. Singh ,C. Pereira,Z. Fu, 2024. 
 - **Does Group Conciousness Still Matters for Voting Behaviour?** - C.Pereira, 2024. 
@@ -36,12 +37,16 @@ I am a Political Science PhD candidate at UZH. My research lies at the intersect
 # Teaching
 
 ## Methods
-- **Deep Learning for Social Sciences**: Labs exercises and solutions. [View on GitHub](#)
+- **Deep Learning for Social Sciences**: Teaching Assistant with Prof. Dr. Marco Steenbergen: Master students UZH. [2023](https://github.com/CT-P/dlss)[2024](https://github.com/CT-P/dlss24)
 
 ## Theory
 
-- **Computational Approach to Deliberation**: Seminar Syllabus - BA 2023. [Access](#)
+- **Computational Approach to Deliberation**: Co-Teaching with Valeria Vuk; Seminar Syllabus - BA 2023. [Access](#)
 - **Political Representation**: Seminar Syllabus - BA 2024. [Access](#)
+
+# Selected Voluntary Work
+
+- **European Network Conference 2024**: Organizing Committe. [Website](https://www.egn.ac)
 
 
 # Education
