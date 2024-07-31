@@ -9,7 +9,7 @@ I am a Political Science PhD candidate at UZH. My research lies at the intersect
 1. [Publications](#publications)
 2. [Grants](#grants)
 3. [Teaching](#teaching)
-4. [Voluntary Work](#work)
+4. [Selected Voluntary Work](#selected-voluntary-work)
 5. [Education](#education)
 6. [Experience](#experience)
 7. [Data and Resources](#data-and-resources)
