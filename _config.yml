@@ -1,0 +1,11 @@
+title: [Your Site Title]
+description: >- # this means to ignore newlines until "baseurl:"
+  [Your Site Description]
+theme: jekyll-theme-minimal
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ct-p.github.io" # the base hostname & protocol for your site
+
+# Author details
+author:
+  name: [Your Name]
+  email: your-email@example.com
