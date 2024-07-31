@@ -1,4 +1,4 @@
-title: [Your Site Title]
+title: [C. Pereira PhD Candidate]
 description: >- # this means to ignore newlines until "baseurl:"
   [Your Site Description]
 theme: jekyll-theme-minimal
@@ -7,5 +7,5 @@ url: "https://ct-p.github.io" # the base hostname & protocol for your site
 
 # Author details
 author:
-  name: [Your Name]
-  email: your-email@example.com
+  name: [Catarina Pereira]
+  email: pereira@ipz.uzh.ch
