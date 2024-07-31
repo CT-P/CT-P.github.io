@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-I am a Political Science PhD candidate at UZH. My research lies at the intersection of political representation, deliberation, and cleavages. My main focus is on how we are represented and how that shapes us, analyzed in deliberative practices, mainly political speeches, but also newspapers. I have a dual background in political science and engineering. In my research, I use computational social science methods to address substantive political science questions.
+I am a [Political Science PhD candidate](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) at University of Zurich (UZH), Switzerland, under the supervision of [Prof. Dr. Marco Steenbergen](https://www.ipz.uzh.ch/en/people/employees/msteen.html) and co-supervision of [Prof. Dr. Andre Bachtiger](https://www.sowi.uni-stuttgart.de/institut/team/Baechtiger-00002/). My research lies at the intersection of political representation, deliberation, and cleavages. My main focus is on how we are represented and how that shapes us, analyzed in deliberative practices, mainly political speeches, but also newspapers. I have a dual background in political science and engineering. In my research, I use computational social science methods to address substantive political science questions.
 
 ## Table of Contents
 1. [Publications](#publications)
@@ -37,13 +37,13 @@ I am a Political Science PhD candidate at UZH. My research lies at the intersect
 # Teaching
 
 ## Methods
-- **Deep Learning for Social Sciences**: Teaching Assistant with Prof. Dr. Marco Steenbergen: Master students UZH. [2023](https://github.com/CT-P/dlss) [2024](https://github.com/CT-P/dlss24)
-- **Deep Learning for Social Sciences**: Teaching Assistant with Prof. Dr. Marco Steenbergen: Master students UZH. [2023](https://github.com/CT-P/dlss) [2024](https://github.com/CT-P/dlss24)
+- **Deep Learning For Social Sciences**: Teaching Assistant with Prof. Dr. Marco Steenbergen: Master students UZH. [2023](https://github.com/CT-P/dlss) [2024](https://github.com/CT-P/dlss24)
+- **Deep Learning For Text and Vision**: Teaching Assistant with Prof. Dr. Marco Steenbergen: ESSEX Summer School [2024](https://essexsummerschool.com/summer-school-facts/courses/ess-2024-course-list/3n/)
 
 ## Theory
 
 - **Computational Approach to Deliberation**: Co-Teaching with Valeria Vuk; Seminar Syllabus - BA 2023. [Access](#)
-- **Political Representation**: Seminar Syllabus - BA 2024. [Access](#)
+- **Why don't people vote? Understanding the void**: Seminar Syllabus - BA 2024. [Access](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=DE&sap-ui-language=DE#/details/2024/003/E/51236731)
 
 # Selected Voluntary Work
 
