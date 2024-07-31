@@ -37,7 +37,7 @@ I am a Political Science PhD candidate at UZH. My research lies at the intersect
 # Teaching
 
 ## Methods
-- **Deep Learning for Social Sciences**: Teaching Assistant with Prof. Dr. Marco Steenbergen: Master students UZH. [2023](https://github.com/CT-P/dlss)[2024](https://github.com/CT-P/dlss24)
+- **Deep Learning for Social Sciences**: Teaching Assistant with Prof. Dr. Marco Steenbergen: Master students UZH. [2023](https://github.com/CT-P/dlss) [2024](https://github.com/CT-P/dlss24)
 
 ## Theory
 
