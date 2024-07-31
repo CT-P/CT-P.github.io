@@ -2,12 +2,14 @@ title: Catarina Pereira
 description: "PhD Candidate in Political Science
               #politcalrepresentation
               #deliberation
-              #computationalsocialsciences"
+              #computationalsocialscience"
 theme: jekyll-theme-minimal
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ct-p.github.io" # the base hostname & protocol for your site
+url: "https://github.com/CT-P" # the base hostname & protocol for your site
 
 # Author details
 author:
   name: "Catarina Pereira"
   email: pereira@ipz.uzh.ch
+  orcid: "https://orcid.org/0000-0002-0414-2511"
+  google_scholar: "https://scholar.google.com/citations?user=F4vbvpMAAAAJ&hl=en&authuser=1" 
