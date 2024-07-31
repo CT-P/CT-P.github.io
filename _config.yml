@@ -12,5 +12,7 @@ email: "pereira@ipz.uzh.ch"
 author:
   name: "Catarina Pereira"
   email: "pereira@ipz.uzh.ch"
-  orcid: "https://orcid.org/0000-0002-0414-2511"
-  google_scholar: "https://scholar.google.com/citations?user=F4vbvpMAAAAJ&hl=en&authuser=1"
+
+github:
+  orcid_url: "https://orcid.org/0000-0002-0414-2511"
+  google_scholar_url: "https://scholar.google.com/citations?user=F4vbvpMAAAAJ&hl=en&authuser=1"
