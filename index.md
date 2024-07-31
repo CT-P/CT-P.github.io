@@ -3,31 +3,56 @@ layout: default
 title: Home
 ---
 
-#  
-I am a Political Science PhD candidate at UZH. My research lies at the intersection of political representation, deliberation, and cleavages. My main focus is on how we are represented and how that shapes us, analyze it in deliberative practices, mainly political speeches, but also newspapers. I have a dual background in political science and engineering. In my research, I use computational social science methods to address substantive political science questions. 
+I am a Political Science PhD candidate at UZH. My research lies at the intersection of political representation, deliberation, and cleavages. My main focus is on how we are represented and how that shapes us, analyzed in deliberative practices, mainly political speeches, but also newspapers. I have a dual background in political science and engineering. In my research, I use computational social science methods to address substantive political science questions.
 
+## Table of Contents
+1. [Publications](#publications)
+2. [Grants](#grants)
+3. [Teaching](#teaching)
+4. [Education](#education)
+5. [Experience](#experience)
+6. [Data and Resources](#data-and-resources)
 
 # Publications
 
 ## Published Papers
 
-- **Paper Title 1** - Published in [Journal Name], [Year]. [Read more](#)
-- **Paper Title 2** - Published in [Journal Name], [Year]. [Read more](#)
-- **Paper Title 3** - Published in [Journal Name], [Year]. [Read more](#)
+- **How to measure political polarization in text-as-data? A scoping review of computational social science approaches** - Journal of Information Technology & Politics, 2024. [Full View](https://doi.org/10.1080/19331681.2024.2318404)
 
-## Conference Papers
+## Working Papers
 
-- **Paper Title 1** - Presented at [Conference Name], [Year]. [Read more](#)
-- **Paper Title 2** - Presented at [Conference Name], [Year]. [Read more](#)
+- **Do Radical Right Parties Change Discursive Political Representation in Europe? Populism and Technocracy in Six European Countrie** - C.Pereira, Presented at EPSA, 2024. 
+- **Gender Bias Detector: party effect in congress speeches** - C.Pereira,C.Marangon, E.Ash, 2024. 
+- **Pandemic Effects in Nationalism Dimensions** -   A. Wimmer, P. Singh ,C. Pereira,Z. Fu, 2024. 
+- **Does Group Conciousness Still Matters for Voting Behaviour?** - C.Pereira, 2024. 
+- **Deliberation at Transnational Public Sphere** - C.Pereira, (Book Review), 2024. 
 
-## Education
+
+# Grants
+
+- 8 000 CHF: Funding from CIS (UZH + ETH) for Gender Bias Detector: working paper with Claudia Marangon (ETH) and Elliott Ash (ETH)
+- 5 000 CHF: Computational Methods Working Group [CMWG](http://www.cssmethods.uzh.ch/)
+
+# Teaching
+
+## Methods
+- **Deep Learning for Social Sciences**: Labs exercises and solutions. [View on GitHub](#)
+
+## Theory
+
+- **Computational Approach to Deliberation**: Seminar Syllabus - BA 2023. [Access](#)
+- **Political Representation**: Seminar Syllabus - BA 2024. [Access](#)
+
+
+# Education
 
 - PhD in Political Science, University of Zurich, 2022 - Present
+[Swiss National Foundation Project](https://data.snf.ch/grants/grant/205975)
 - Master's in International Studies, ISCTE - Portugal, 2020-2022
 - Master's in Biomedical Engineering, University Twente - Netherlands, 2014-2016
-- Bachelor's in Biomedical Engineering,  IST - Portugal, 2012-2014
+- Bachelor's in Biomedical Engineering, IST - Portugal, 2012-2014
 
-## Experience
+# Experience
 
 - Account Manager, Microsoft - Portugal, 2020-2022
 - Assistant Professor, ISEG - Portugal, 2020-2022
@@ -38,15 +63,5 @@ I am a Political Science PhD candidate at UZH. My research lies at the intersect
 ## Datasets
 
 - **Text Dataset**: Parliamentary Speeches from 1991-2019 (Countries: Sweden, Denmark, Austria, Germany, France, Italy). [Download](#)
-
-
-## Code and Scripts
-
-- **Deep Learning for Social Sciences**: Labs exercises and solutions. [View on GitHub](#)
-
-## Syllabus 
-
-- **Computational Approach to Deliberation**: Seminar Syllabus - BA 2023. [Access](#)
-- **Political Representation**: Seminar Syllabus - BA 2024. [Access](#)
 
 
