@@ -23,9 +23,9 @@ I am a Political Science PhD candidate at UZH. My research lies at the intersect
 ## Working Papers
 
 - **Do Radical Right Parties Change Discursive Political Representation in Europe? Populism and Technocracy in Six European Countries** - C.Pereira, Presented at EPSA, 2024. 
-- **Gender Bias Detector: party effect in congress speeches** - C.Pereira,C.Marangon, E.Ash, 2024. 
+- **Gender Bias Detector: Party Effect in Congress Speeches** - C.Pereira,C.Marangon, E.Ash, 2024. 
 - **Pandemic Effects in Nationalism Dimensions** -   A. Wimmer, P. Singh ,C. Pereira,Z. Fu, 2024. 
-- **Does Group Conciousness Still Matters for Voting Behaviour?** - C.Pereira, 2024. 
+- **Does Group Consciousness Still Matter for Voting Behavior?** - C.Pereira, 2024. 
 - **Deliberation at Transnational Public Sphere** - C.Pereira, (Book Review), 2024. 
 
 
@@ -37,6 +37,7 @@ I am a Political Science PhD candidate at UZH. My research lies at the intersect
 # Teaching
 
 ## Methods
+- **Deep Learning for Social Sciences**: Teaching Assistant with Prof. Dr. Marco Steenbergen: Master students UZH. [2023](https://github.com/CT-P/dlss) [2024](https://github.com/CT-P/dlss24)
 - **Deep Learning for Social Sciences**: Teaching Assistant with Prof. Dr. Marco Steenbergen: Master students UZH. [2023](https://github.com/CT-P/dlss) [2024](https://github.com/CT-P/dlss24)
 
 ## Theory
