@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-I am a [Political Science PhD candidate](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) at University of Zurich (UZH), Switzerland, under the supervision of [Prof. Dr. Marco Steenbergen](https://www.ipz.uzh.ch/en/people/employees/msteen.html) and co-supervision of [Prof. Dr. Andre Bachtiger](https://www.sowi.uni-stuttgart.de/institut/team/Baechtiger-00002/). My research lies at the intersection of political representation, deliberation, and cleavages. My main focus is on how we are represented and how that shapes us, analyzed in deliberative practices, mainly political speeches, but also newspapers. I have a dual background in political science and engineering. In my research, I use computational social science methods to address substantive political science questions.
+I am a [Political Science PhD candidate](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) at University of Zurich (UZH), Switzerland, under the supervision of [Prof. Dr. Marco Steenbergen](https://www.ipz.uzh.ch/en/people/employees/msteen.html) and co-supervision of [Prof. Dr. Andre Bachtiger](https://www.sowi.uni-stuttgart.de/institut/team/Baechtiger-00002/). My research lies at the intersection of political representation, deliberation, and cleavages. My main focus is on how we are represented and how that shapes us, analysed in deliberative practices, mainly political speeches, but also newspapers. I have a dual background in political science and engineering. In my research, I use computational social science methods to address substantive political science questions.
 
 ## Table of Contents
 1. [Publications](#publications)
@@ -24,9 +24,7 @@ I am a [Political Science PhD candidate](https://www.ipz.uzh.ch/de/personen/mita
 
 - **Do Radical Right Parties Change Discursive Political Representation in Europe? Populism and Technocracy in Six European Countries** - C.Pereira, Presented at EPSA, 2024. 
 - **Gender Bias Detector: Party Effect in Congress Speeches** - C.Pereira,C.Marangon, E.Ash, 2024. 
-- **Pandemic Effects in Nationalism Dimensions** -   A. Wimmer, P. Singh ,C. Pereira,Z. Fu, 2024. 
-- **Does Group Consciousness Still Matter for Voting Behavior?** - C.Pereira, 2024. 
-- **Deliberation at Transnational Public Sphere** - C.Pereira, (Book Review), 2024. 
+- **Pandemic Effects in Nationalism Dimensions** -   A. Wimmer, P. Singh ,C. Pereira,Z. Fu, 2024.
 
 
 # Grants
