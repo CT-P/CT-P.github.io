@@ -3,7 +3,9 @@ layout: default
 title: Home
 ---
 
-I am a [Political Science PhD candidate](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) at University of Zurich (UZH), Switzerland, under the supervision of [Prof. Dr. Marco Steenbergen](https://www.ipz.uzh.ch/en/people/employees/msteen.html) and co-supervision of [Prof. Dr. Andre Bachtiger](https://www.sowi.uni-stuttgart.de/institut/team/Baechtiger-00002/). I am currently in my third year of doctoral studies in the chair of political methodology, under the supervision of Prof. Marco Steenbergen. My research focuses on the process of political change, specifically the factors that trigger it and its consequences, with a particular emphasis on Western European democracies. The rise of new political parties brings with it new agendas, rhetoric, and forms of representation, and I am keen to understand which latent characteristics within the electorate are mobilized and what types of rhetoric are employed. While there is a growing trend toward the use of symbolic argumentation by parties, new questions arise when we differentiate rhetorical characteristics from ideological positions in political discourse. The central question of my dissertation is: What voter characteristics are mobilized during periods of political change, particularly with the emergence of new parties?
+I am a [Political Science PhD candidate](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) at University of Zurich (UZH), Switzerland, under the supervision of [Prof. Dr. Marco Steenbergen](https://www.ipz.uzh.ch/en/people/employees/msteen.html) and co-supervision of [Prof. Dr. Andre Bachtiger](https://www.sowi.uni-stuttgart.de/institut/team/Baechtiger-00002/). 
+I am currently in my third year of doctoral studies in the chair of political methodology, under the supervision of Prof. Marco Steenbergen. My research focuses on the process of political change, specifically the factors that trigger it and its consequences, with a particular emphasis on Western European democracies. The rise of new political parties brings with it new agendas, rhetoric, and forms of representation, and I am keen to understand which latent characteristics within the electorate are mobilized and what types of rhetoric are employed. While there is a growing trend toward the use of symbolic argumentation by parties, new questions arise when we differentiate rhetorical characteristics from ideological positions in political discourse. 
+The central question of my dissertation is: What voter characteristics are mobilized during periods of political change, particularly with the emergence of new parties?
 
 ## Table of Contents
 1. [Publications](#publications)
@@ -22,7 +24,7 @@ I am a [Political Science PhD candidate](https://www.ipz.uzh.ch/de/personen/mita
 
 ## Working Papers
 
-- **Do Radical Right Parties Change Discursive Political Representation in Europe? Populism and Technocracy in Six European Countries** - C.Pereira, Presented at EPSA, 2024. 
+- **The Impact of Challenger Parties on the Rhetoric of Mainstream Parties in Western Europe: A Political Strategy Approach** - C.Pereira, Presented at EPSA, 2024. 
 - **Gender Bias Detector: Party Effect in Congress Speeches** - C.Pereira,C.Marangon, E.Ash, 2024. 
 - **Pandemic Effects in Nationalism Dimensions** -   A. Wimmer, P. Singh ,C. Pereira,Z. Fu, 2024.
 
