@@ -5,7 +5,7 @@ description: "PhD Candidate in Political Science
               #computationalsocialscience"
 theme: jekyll-theme-minimal
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ct-p.github.io" # the base hostname & protocol for your site
+google_scholar_url : "https://ct-p.github.io" # the base hostname & protocol for your site
 email: "pereira@ipz.uzh.ch"
 
 # Author details
