@@ -4,9 +4,9 @@ title: Home
 ---
 
 I am a [Political Science PhD candidate](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) at University of Zurich (UZH), Switzerland, under the supervision of [Prof. Dr. Marco Steenbergen](https://www.ipz.uzh.ch/en/people/employees/msteen.html) and co-supervision of [Prof. Dr. Andre Bachtiger](https://www.sowi.uni-stuttgart.de/institut/team/Baechtiger-00002/). 
-I am currently in my third year of doctoral studies in the chair of political methodology, under the supervision of Prof. Marco Steenbergen. 
+I am currently in my third year of doctoral studies in the chair of political methodology.
 
-Knowing that voters may hold long-standing preferences related to ideology, identity, or policy, it is crucial to understand how parties use dynamic rhetoric to align their messaging with shifting political environments. My research focuses on how rhetorical strategies evolve over time and their impact on voter behavior, exploring how parties adapt their rhetoric as a deliberate strategy to influence electoral outcomes.
+I am currently in my third year of doctoral studies. emerging voter needs that can be leveraged for innovation. While voters may hold long-standing preferences, it is crucial to understand how parties discover and mobilize around untapped voter concerns. My focus is on how dynamic rhetorical strategies evolve over time, allowing parties to align their messaging with these unaddressed needs. By examining how rhetoric adapts to shifting political environments, my research explores how parties use innovative communication as a deliberate strategy to shape voter behavior and influence electoral outcomes.
 
 ## Table of Contents
 1. [Publications](#publications)
