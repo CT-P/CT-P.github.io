@@ -5,7 +5,7 @@ title: Home
 
 I am a [Political Science PhD candidate](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) at the University of Zurich (UZH), Switzerland.
 
-My research focuses on political competition, specifically on anti-elite rhetoric as tool. How can we identify populism in national parliamentary speeches? Under what conditions does populism successfully attract voters, and why? Methodologically, I primarily use computational social science methods and game theory to answer these questions.
+My research focuses on political competition, specifically on the use of rhetoric as tool for parties to atract voters. I am interested in questions such as how can populism be identified in political speech? Under what conditions does populism successfully attract voters, and why? Methodologically, I primarily use computational social science methods and game theory to answer these questions.
 ## Table of Contents
 1. [Publications](#publications)
 2. [Grants](#grants)
