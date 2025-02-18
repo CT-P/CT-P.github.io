@@ -3,11 +3,9 @@ layout: default
 title: Home
 ---
 
-I am a [Political Science PhD candidate](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) at University of Zurich (UZH), Switzerland, under the supervision of [Prof. Dr. Marco Steenbergen](https://www.ipz.uzh.ch/en/people/employees/msteen.html) and co-supervision of [Prof. Dr. Andre Bachtiger](https://www.sowi.uni-stuttgart.de/institut/team/Baechtiger-00002/). 
-I am currently in my third year of doctoral studies in the chair of political methodology.
+I am a [Political Science PhD candidate](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) at the University of Zurich (UZH), Switzerland.
 
-My research focuses on political competition, specifically on how parties adapt to new players and tools. While voters may hold long-standing preferences, new generations enter in the electorate and new political actors come into play with new dimensions. How do parties respond? There is a learning on the party side that has not been fully accounted for. How flexible is a party' vote base? Which dimensions can be added, shifted or connected?  These are the types of questions I aim to answer, using mainly game theory and computational social science methods. 
-
+My research focuses on political competition, specifically on anti-elite rhetoric as tool. How can we identify populism in national parliamentary speeches? Under what conditions does populism successfully attract voters, and why? Methodologically, I primarily use computational social science methods and game theory to answer these questions.
 ## Table of Contents
 1. [Publications](#publications)
 2. [Grants](#grants)
@@ -25,26 +23,29 @@ My research focuses on political competition, specifically on how parties adapt 
 
 ## Working Papers
 
-- **The Impact of Challenger Parties on the Rhetoric of Mainstream Parties in Western Europe: A Political Strategy Approach** - C.Pereira, Presented at EPSA, 2024. 
-- **Gender Bias Detector: Party Effect in Congress Speeches** - C.Pereira,C.Marangon, E.Ash, 2024. 
-- **Pandemic Effects in Nationalism Dimensions** -   A. Wimmer, P. Singh ,C. Pereira,Z. Fu, 2024.
+- **Anti Elite Rhetoric: A Party Strategy Approach** - C.Pereira, Presented at EPSA, 2024. 
+- **Gender Bias Detector: Party Effect in Congress Speeches** - C.Pereira,C.Marangon, Presented at CIS Zurichberg colloquium 2025. 
+- **Pandemic Effects in Nationalism Dimensions** -   A. Wimmer, P. Singh ,C. Pereira,Z. Fu
 
 
 # Grants
 
-- 8 000 CHF: Funding from CIS (UZH + ETH) for Gender Bias Detector: working paper with Claudia Marangon (ETH) and Elliott Ash (ETH)
+- 8 000 CHF: Funding from CIS (UZH + ETH) for Gender Bias Detector: working paper with Claudia Marangon (ETH)
 - 5 000 CHF: Computational Methods Working Group [CMWG](http://www.cssmethods.uzh.ch/)
 
 # Teaching
 
-## Methods
+## Graduate Level
 - **Deep Learning For Social Sciences**: Teaching Assistant with Prof. Dr. Marco Steenbergen: Master students UZH. [2023](https://github.com/CT-P/dlss) [2024](https://github.com/CT-P/dlss24)
 - **Deep Learning For Text and Vision**: Teaching Assistant with Prof. Dr. Marco Steenbergen: ESSEX Summer School [2024](https://essexsummerschool.com/summer-school-facts/courses/ess-2024-course-list/3n/)
 
-## Theory
+## Ungraduate Level
 
 - **Computational Approach to Deliberation**: Co-Teaching with Valeria Vuk; Seminar Syllabus - BA 2023. [Access](#)
 - **Why don't people vote? Understanding the void**: Seminar Syllabus - BA 2024. [Access](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=DE&sap-ui-language=DE#/details/2024/003/E/51236731)
+
+## Supervison
+- **BA Thesis Supervision**: Lea Schubarth
 
 # Selected Voluntary Work
 
@@ -53,7 +54,7 @@ My research focuses on political competition, specifically on how parties adapt 
 
 # Education
 
-- PhD in Political Science, University of Zurich, 2022 - Present
+- PhD in Political Science, University of Zurich, 2022 - 2026
 [Swiss National Foundation Project](https://data.snf.ch/grants/grant/205975)
 - Master's in International Studies, ISCTE - Portugal, 2020-2022
 - Master's in Biomedical Engineering, University Twente - Netherlands, 2014-2016
@@ -63,7 +64,7 @@ My research focuses on political competition, specifically on how parties adapt 
 
 - Account Manager, Microsoft - Portugal, 2020-2022
 - Assistant Professor, ISEG - Portugal, 2020-2022
-- Data Scientist, Microsoft - EMEA, 2016 - 2020
+- Data Scientist, Microsoft - EMEA (Madrid Based), 2016 - 2020
 
 # Data and Resources
 
