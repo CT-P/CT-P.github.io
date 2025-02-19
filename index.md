@@ -5,7 +5,7 @@ title: Home
 
 I am a [Political Science PhD candidate](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) at the University of Zurich (UZH), Switzerland.
 
-My research focuses on political competition, specifically on the use of rhetoric as tool for parties to atract voters. I am interested in questions such as how can populism be identified in political speech? Under what conditions does populism successfully attract voters, and why? Methodologically, I primarily use computational social science methods and game theory to answer these questions.
+My research focuses on political competition, specifically on the use of rhetoric as tool for parties to atract voters. I am interested in questions such as how can populism be identified in political speech? Under what conditions does populism successfully attract voters, and why? Methodologically, I primarily use computational social science methods to answer these questions.
 ## Table of Contents
 1. [Publications](#publications)
 2. [Grants](#grants)
@@ -36,7 +36,7 @@ My research focuses on political competition, specifically on the use of rhetori
 # Teaching
 
 ## Graduate Level
-- **Deep Learning For Social Sciences**: Teaching Assistant with Prof. Dr. Marco Steenbergen: Master students UZH. [2023](https://github.com/CT-P/dlss) [2024](https://github.com/CT-P/dlss24)
+- **Deep Learning For Social Sciences**: Teaching Assistant with Prof. Dr. Marco Steenbergen: [2023](https://github.com/CT-P/dlss) [2024](https://github.com/CT-P/dlss24)
 - **Deep Learning For Text and Vision**: Teaching Assistant with Prof. Dr. Marco Steenbergen: ESSEX Summer School [2024](https://essexsummerschool.com/summer-school-facts/courses/ess-2024-course-list/3n/)
 
 ## Ungraduate Level
