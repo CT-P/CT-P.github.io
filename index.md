@@ -23,7 +23,7 @@ My research focuses on political competition, specifically on the use of rhetori
 
 ## Working Papers
 
-- **Anti Elite Rhetoric: A Party Strategy Approach** - C.Pereira, Presented at EPSA, 2024. 
+- **Dynamic Populism Rhetoric Measurement and its impact on vote choice** - C.Pereira, Presented at EPSA and APSA, 2024, 2025. 
 - **Gender Bias Detector: Party Effect in Congress Speeches** - C.Pereira,C.Marangon, Presented at CIS Zurichberg colloquium 2025. 
 - **Pandemic Effects in Nationalism Dimensions** -   A. Wimmer, P. Singh ,C. Pereira,Z. Fu
 
