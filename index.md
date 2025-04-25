@@ -6,6 +6,8 @@ title: Home
 I am a [Political Science PhD candidate](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) at the University of Zurich (UZH), Switzerland.
 
 My research focuses on political competition, specifically on the use of rhetoric as a tool for parties to attract voters. I am interested in questions such as how populism can be identified in political speech. Under what conditions does populism successfully attract voters, and why? Methodologically, I primarily use machine learning and causal inference to answer these questions.
+My PhD is supported by a Swiss National Foundation project on large scale online deliberation.
+
 ## Table of Contents
 1. [Publications](#publications)
 2. [Grants](#grants)
@@ -24,20 +26,23 @@ My research focuses on political competition, specifically on the use of rhetori
 ## Working Papers
 
 - **Dynamic Populism Rhetoric Measurement and its impact on vote choice** - C.Pereira, Presented at EPSA and APSA, 2024, 2025. 
-- **Gender Bias Detector: Party Effect in Congress Speeches** - C.Pereira,C.Marangon, Presented at CIS Zurichberg colloquium 2025. 
+- **Gendered Social Norms Detector: Party Effect in Congress Speeches** - C.Pereira,C.Marangon, Presented at CIS Zurichberg colloquium 2025. 
+- **Social Norms and Common Good Perceptions** - C.Pereira 
+- **Deliberative Transformative Moments: a text approach** - C.Pereira
+- **Online Deliberation of Tempo-30 in Swiss Cities** - C. Sarasua, F. Bachmann, D.Weijden,S. Li, V. Vuk,M. Steenbergen, A.Bernstein 
 - **Pandemic Effects in Nationalism Dimensions** -   A. Wimmer, P. Singh ,C. Pereira,Z. Fu
 
 
 # Grants
-
-- 8 000 CHF: Funding from CIS (UZH + ETH) for Gender Bias Detector: working paper with Claudia Marangon (ETH)
-- 5 000 CHF: Computational Methods Working Group [CMWG](http://www.cssmethods.uzh.ch/)
+- 5 000 CHF: Funding from UZH for a Courses Program in Bocconi University [2025]: Advanced Microeconomics and Game Theory courses
+- 8 000 CHF: Funding from CIS (UZH + ETH) for Gender Bias Detector [2024]: working paper with Claudia Marangon (ETH)
+- 5 000 CHF: Computational Methods Working Group 2023 [CMWG](http://www.cssmethods.uzh.ch/)
 
 # Teaching
 
 ## Graduate Level
-- **Deep Learning For Social Sciences**: Teaching Assistant with Prof. Dr. Marco Steenbergen: [2023](https://github.com/CT-P/dlss) [2024](https://github.com/CT-P/dlss24)
-- **Deep Learning For Text and Vision**: Teaching Assistant with Prof. Dr. Marco Steenbergen: ESSEX Summer School [2024](https://essexsummerschool.com/summer-school-facts/courses/ess-2024-course-list/3n/)
+- **Deep Learning For Social Sciences**: Teaching Assistant with Prof. Dr. Marco Steenbergen: [2023](https://github.com/CT-P/dlss) [2024](https://github.com/CT-P/dlss24) [2025]
+- **Deep Learning For Text and Vision**: Teaching Assistant with Prof. Dr. Marco Steenbergen: ESSEX Summer School [2024](https://essexsummerschool.com/summer-school-facts/courses/ess-2024-course-list/3n/) [2025]
 
 ## Ungraduate Level
 
@@ -45,7 +50,7 @@ My research focuses on political competition, specifically on the use of rhetori
 - **Why don't people vote? Understanding the void**: Seminar Syllabus - BA 2024. [Access](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=DE&sap-ui-language=DE#/details/2024/003/E/51236731)
 
 ## Supervison
-- **BA Thesis Supervision**: Lea Schubarth
+- **BA Thesis Supervision 2025**: Lea Schubarth
 
 # Selected Voluntary Work
 
