@@ -9,7 +9,7 @@ My research focuses on political competition, specifically on the use of rhetori
 
 My PhD is supported by a Swiss National Foundation project on large scale online deliberation.
 
-You can view my CV updated on May 2025 [here] (https://www.dropbox.com/scl/fi/sa7ao4i4xbfe9kne48jli/Resume.pdf?rlkey=ys6cbh0o8yf32ksb397gqbqx6&st=9ferlbds&dl=0)
+You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/sa7ao4i4xbfe9kne48jli/Resume.pdf?rlkey=ys6cbh0o8yf32ksb397gqbqx6&st=9ferlbds&dl=0)
 
 ## Table of Contents
 1. [Publications](#publications)
