@@ -5,7 +5,8 @@ title: Home
 
 I am a [Political Science PhD candidate](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) at the University of Zurich (UZH), Switzerland.
 
-My research focuses on the role of rhetoric in democracies from empirical, methodological, and theoretical perspectives.  In my PhD, I focused on anti-pluralistic rhetoric and its implications for democratic legitimacy and representation. I studied how can anti-pluralistic rhetoric Influence vote choice; how to classify rare and evolving text classes; and can conversation with GAI be legitimatize? Methodologically, I primarily use machine learning and causal inference to answer these questions.
+My research focuses on the role of rhetoric in democracies from empirical, methodological, and theoretical perspectives.  In my PhD, I focused on anti-pluralistic rhetoric and its implications for democratic legitimacy and representation. I studied how can anti-pluralistic rhetoric Influence vote choice; how to classify rare and evolving text classes; and if GAI conversation be legitimatize? Methodologically, I primarily use machine learning and causal inference to answer these questions.
+
 
 My PhD is supported by a Swiss National Foundation project on large scale online deliberation.
 
