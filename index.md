@@ -10,7 +10,7 @@ My research focuses on the role of rhetoric in democracies from empirical, metho
 
 My PhD is supported by a Swiss National Foundation project on large scale online deliberation.
 
-You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/sa7ao4i4xbfe9kne48jli/Resume.pdf?rlkey=ys6cbh0o8yf32ksb397gqbqx6&st=9ferlbds&dl=0)
+You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/m9xmde8lhl9ngqouz30rm/Resume.pdf?rlkey=1qvrzfzr9z206qg6cn65mx83c&st=2nemp748&dl=0)
 
 ## Table of Contents
 1. [Publications](#publications)
