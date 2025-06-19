@@ -17,9 +17,10 @@ You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/sa7
 2. [Grants](#grants)
 3. [Teaching](#teaching)
 4. [Selected Voluntary Work](#selected-voluntary-work)
-5. [Education](#education)
-6. [Experience](#experience)
-7. [Data and Resources](#data-and-resources)
+5. [Research Assistant Work](#ra-work)
+6. [Education](#education)
+7. [Experience](#experience)
+8. [Data and Resources](#data-and-resources)
 
 # Publications
 
@@ -59,7 +60,10 @@ You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/sa7
 # Selected Voluntary Work
 
 - **European Network Conference 2024**: Organizing Committe. [Website](https://www.egn.ac)
+- **Computational Methods Working Group**: Responsible for maintaining the group’s website and organizing workshops [CMWG](http://www.cssmethods.uzh.ch/)
 
+# Research Assistant Work
+- **Columbia University**: Research Assistant for Andreas Wimmer and Prerna Singh (2024-2025)
 
 # Education
 
@@ -79,7 +83,8 @@ You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/sa7
 
 ## Datasets
 
-- **Text Dataset**: Parliamentary Speeches from 1991-2019 (Countries: Sweden, Denmark, Austria, Germany, France, Italy). [Download](#)
+- **Text Dataset**: Parliamentary Speeches in the UK House of Commons from 2009-2019 (Populim and Technocracy components score per sentence ). [Download](#)
+- **Text Dataset**: Parliamentary Speeches in the UK House of Commons from 1960-2014 (Populim and Technocracy components score per sentence ). [Download](#)
 
 ## Packages
 
