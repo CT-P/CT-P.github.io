@@ -2,10 +2,9 @@
 layout: default
 title: Home
 ---
+Contemporary political communication has undergone a fundamental transformation: messages no longer address collectives but target individuals with algorithmic precision that exceeds human personalization. This shift represents more than technological advancement—it constitutes a deliberate fragmentation of democratic discourse, where anti-pluralistic appeals have systematically displaced the shared communicative foundations essential to public deliberation. Democratic conversation now occurs within an eroding landscape of offline social capital, where the velocity of information transmission has inverted traditional assumptions about the accessibility and cost of political speech.
 
-I became politically aware that the messages received from the outside are aimed at me as an individual, and not at the group I belong to. In political decision-making, the individual has become the primary target: every screen is customised to me in ways a friend cannot be. In this environment, anti-pluralistic political communication has flourished, replacing messages that once spoke to a shared public with appeals that fragment and individualise the democratic conversation. To deliberate, I must navigate a shrinking reservoir of offline social capital. Talk is no longer cheap, and reaches us with unprecedented speed.
-
-My research bridges political communication, democratic theory, and computational social science to examine how targeted messaging reshapes the conditions for democratic deliberation. From this shift emerge three core research questions that shape my work:
+My research program interrogates this transformation through an integrated framework spanning political communication, democratic theory, and computational social science, examining how precision targeting fundamentally alters the structural conditions for democratic deliberation. This investigation centers on three interconnected research questions that drive my scholarly agenda:
 
 **Democratic implications (empirical)** – How does anti-pluralistic political communication interact with individual identity to shape electoral behaviour, and how do offline political discussions moderate and differentiate its rhetorical forms?
 
