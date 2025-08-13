@@ -16,7 +16,7 @@ My research bridges political communication, democratic theory, and computationa
 
 My [PhD](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) is supported by a [Swiss National Foundation project on large scale online deliberation]( https://d3-project.ch/science/).
 
-You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/m9xmde8lhl9ngqouz30rm/Resume.pdf?rlkey=1qvrzfzr9z206qg6cn65mx83c&st=2nemp748&dl=0)
+You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/c2ngpkx1rc5o8iq62v1u6/Resume.pdf?rlkey=gutwfqnsc478f1qsrlmoqi6mu&st=52zxyahn&dl=0)
 
 ## Table of Contents
 1. [Publications](#publications)
