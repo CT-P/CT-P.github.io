@@ -4,13 +4,14 @@ title: Home
 ---
 
 I became politically aware that the messages received from the outside are aimed at me as an individual, and not at the group I belong to. In political decision-making, the individual has become the primary target: every screen is customised to me in ways a friend cannot be. In this environment, anti-pluralistic political communication has flourished, replacing messages that once spoke to a shared public with appeals that fragment and individualise the democratic conversation. To deliberate, I must navigate a shrinking reservoir of offline social capital. Talk is no longer cheap, and reaches us with unprecedented speed.
+
 My research bridges political communication, democratic theory, and computational social science to examine how targeted messaging reshapes the conditions for democratic deliberation. From this shift emerge three core research questions that shape my work:
 
-Democratic implications (empirical) – How does anti-pluralistic political communication interact with individual identity to shape electoral behaviour, and how do offline political discussions moderate and differentiate its rhetorical forms?
+**Democratic implications (empirical)** – How does anti-pluralistic political communication interact with individual identity to shape electoral behaviour, and how do offline political discussions moderate and differentiate its rhetorical forms?
 
-Target definition (methodological) – How can we systematically identify and classify rare and evolving classes of political narratives—defined by their oppositional poles, such as man and woman—that are used to target particular individuals or groups?
+**Target definition (methodological)** – How can we systematically identify and classify rare and evolving classes of political narratives—defined by their oppositional poles, such as man and woman—that are used to target particular individuals or groups?
 
-Epistemological shift (theoretical)– How does the move from human-generated to AI-generated political communication affect knowledge formation, trust, and disagreement, and how can an imitation-based framework, grounded in epistemic disagreement, improve on existing instrumental models for assessing AI’s impact?
+**Epistemological shift (theoretical)** – How does the move from human-generated to AI-generated political communication affect knowledge formation, trust, and disagreement, and how can an imitation-based framework, grounded in epistemic disagreement, improve on existing instrumental models for assessing AI’s impact?
 
 
 My [PhD](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) is supported by a [Swiss National Foundation project on large scale online deliberation]( https://d3-project.ch/science/).
