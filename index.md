@@ -37,8 +37,8 @@ You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/m9x
 ## Working Papers
 
 - **Anti-Pluralistic Rhetoric and Voting Behavior: Populism, Technocracy, and Political Discussion** - C.Pereira, Presented at EPSA and APSA, 2024, 2025. 
-- **Bias Classification and Evolution: a Gender Norm Analysis** - C.Pereira,C.Marangon, Presented at CIS Zurichberg colloquium 2025, TADA, ETH. 
-- **AI Chat vs. Deliberation: Normative Legitimacy in Artificial Dialogue and Its Challenge to Democratic Deliberation** - C.Pereira 
+- **Political Narratives of Marginalised Groups: addressing rare and evolving classes** - C.Pereira,C.Marangon, Presented at CIS Zurichberg colloquium 2025, TADA, ETH. 
+- **Epistemic Consequences of Conversational AI** - C.Pereira 
 - **Deliberative Transformative Moments: a text approach** - C.Pereira, D. van der Weijden
 - **Online Deliberation of Tempo-30 in Swiss Cities** - C. Sarasua, F. Bachmann, D.Weijden,S. Li,C.Pereira, V. Vuk,M. Steenbergen, A.Bernstein 
 - **Pandemic Effects in Nationalism Dimensions** -   A. Wimmer, P. Singh ,C. Pereira,Z. Fu
@@ -90,9 +90,9 @@ You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/m9x
 ## Datasets
 
 - **Text Dataset**: Parliamentary Speeches in the UK House of Commons from 2009-2019 (Populim and Technocracy components score per sentence ). [Download](#)
-- **Text Dataset**: Parliamentary Speeches in the UK House of Commons from 1960-2014 (Populim and Technocracy components score per sentence ). [Download](#)
+- **Text Dataset**: Congress Speeches in the US House of Congress from 1960-2014 (feminine and masculine narratives). [Download](#)
 
 ## Packages
 
 - **PopTech**: Language-agnostic transformer classifier for populism and technocracy [available upon publication of paper]. [Git-Hub](#)
-- **biasDetect**: Language-agnostic transformer classifier for rare and evolving classes in text (eg: Gender norms)  [available upon publication of paper]. [Git-Hub](#)
+- **biasDetect**: Semi-supervised change point model in text for rare and evolving classes in text (eg: Gender norms)  [available upon publication of paper]. [Git-Hub](#)
