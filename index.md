@@ -4,9 +4,9 @@ title: Home
 ---
 My research examines how rhetoric and communication technologies reshape democracy.
 
-I begin by isolating the **democratic consequences of rhetoric**, showing how styles like populism and technocracy shape voter attachments beyond policy content. 
+I begin by isolating the **democratic consequences of rhetoric**, showing how styles like populism and technocracy shape voter attachments beyond policy content. This extends models of political choice by adding a rhetorical dimension. 
 
-I then extend models of political choice by adding a rhetorical dimension and develop **new computational tools** to detect and track bias in political text.
+I developed a **new computational tool** to detect and track bias in political text, extending the deductive tools with an inductive approach.
 
 Most recently, I explore **political epistemology** in the digital age, analyzing how conversational AI structures knowledge, trust, and disagreement.
 
