@@ -2,17 +2,23 @@
 layout: default
 title: Home
 ---
-Contemporary political communication has undergone a fundamental transformation: messages no longer address collectives but target individuals with algorithmic precision that exceeds human personalization. This shift represents more than technological advancement—it constitutes a deliberate fragmentation of democratic discourse, where anti-pluralistic appeals have systematically displaced the shared communicative foundations essential to public deliberation. Democratic conversation now occurs within an eroding landscape of offline social capital, where the velocity of information transmission has inverted traditional assumptions about the accessibility and cost of political speech.
+My research is motivated by a fundamental concern about how democratic deliberation is changing under pressure from anti-pluralistic communication. 
 
-My research program interrogates this transformation through an integrated framework spanning political communication, democratic theory, and computational social science, examining how precision targeting fundamentally alters the structural conditions for democratic deliberation. This investigation centers on three interconnected research questions that drive my scholarly agenda:
+Across three projects, I investigate how rhetorical form — not just substantive content — shapes political behavior, how we can better detect emerging patterns of bias in political discourse, and how artificial intelligence is transforming the epistemology of democratic debate itself. 
+
+I argue that voters increasingly encounter messages that undermine pluralist norms through distinctive rhetorical styles: populist appeals to "the people" and technocratic invocations of "the experts." These communicative forms activate identity-based attachments that influence electoral choices independently of policy positions, as I demonstrate empirically in the UK context.
+
+Yet understanding these threats requires new methodological tools capable of discovering rather than merely measuring predetermined forms of rhetorical bias, which motivates my development of computational methods that can trace how anti-pluralistic discourse evolves over time with minimal human labeling.
+
+Finally, as political communication shifts from human to AI generation, I theorize how this transformation affects the conditions for democratic knowledge formation—moving beyond instrumental framings to address deeper questions about epistemic disagreement, imitation, and trust. 
+
+Together, these projects respond to an urgent democratic challenge: understanding and addressing how changes in communicative form, measurement capacity, and technological mediation are reshaping the conditions for pluralistic politics.
 
 **Democratic consequences of Rhetoric (empirical)** – Voters are increasingly exposed to political messages that reject pluralism. I argue that rhetorical style itself—independent of policy content—can shape electoral behavior. In particular, I focus on two anti-pluralistic styles: populism, which legitimates claims in the name of “the people,” and technocracy, which invokes “the experts.” Drawing on social identity theory, I show that both rhetorical styles activate identity-based attachments that influence vote choice. I test this argument in the United Kingdom by combining a new computational measure of rhetorical style in parliamentary speeches (2009–2019) with constituency-level election returns and individual-level survey data. Using instrumental variables to separate rhetoric from policy content, I find that exposure to populist and technocratic rhetoric increases support for anti-pluralistic parties, especially UKIP. At the individual level, political discussion weakens the effects of populist appeals but strengthens technocratic ones. These results highlight how rhetorical style independently reshapes party competition and challenges pluralist democracy.
 
 **Rhetoric Methodological Tool Extension (methodological)** – Social scientists increasingly rely on automated tools to measure bias in political text, as automated text classification requires less human coding than manual approaches. However, existing methods force scholars to proceed deductively, requiring them to specify bias dimensions ex ante and struggling to discover emergent forms of bias that evolve over time. To enable bias discovery while reducing labeling costs, we propose biasDetect, a new algorithm that combines narrative-level analysis with dispersion-based statistics and change-point detection models. Our approach operates on semantic role structures rather than individual words, uses distributional inference on unlabeled data, and learns optimal time windows from the data rather than fixing them a priori. Validation studies show that with minimal labeled data, our algorithm's classification performance is comparable to state-of-the-art methods while offering greater interpretability and lower computational costs. We replicate the results of published studies using only small fractions of their original labeled data, demonstrate cross-lingual applicability on Spanish tweets, and trace fifty years of gendered narratives in U.S. congressional speech. We provide open-source software to implement our method.
 
-**Political Epistemology in Conversational AI (theoretical)** – How does the move from human-generated to AI-generated political communication affect knowledge formation, trust, and disagreement, and how can an imitation-based framework, grounded in epistemic disagreement, improve on existing instrumental models for assessing AI’s impact?
-
-
+**Political Epistemology in Conversational AI (theoretical)** – Conversational AI has in recent years become a major avenue for everyday political knowledge gathering. However, while the digital public sphere has gained the attention of political philosophers, a systematic normative evaluation of its epistemic consequences is lacking. I provide a deliberative framework for assessing the impact of conversational AI on political knowledge, capturing both the ways in which algorithmic conversation structures knowledge, and the reasons why this structure undermines pluralist ideals. Identifying conversational AI as an epistemic agent intervening in the public sphere, with immense influence over how citizens access and evaluate information, I ask whether its power can be exercised in line with deliberative principles. Acknowledging that citizens have claims to equal standing, contestability, and inclusivity in political knowledge formation, I find that current conversational systems systematically violate these claims through out-of-distribution pattern elimination, hierarchical answer structuring, and the foreclosure of disagreement. In this context, AI’s potential for pluralist knowledge production in the public sphere is immense but unfulfilled.
 My [PhD](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) is supported by a [Swiss National Foundation project on large scale online deliberation]( https://d3-project.ch/science/).
 
 You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/c2ngpkx1rc5o8iq62v1u6/Resume.pdf?rlkey=gutwfqnsc478f1qsrlmoqi6mu&st=52zxyahn&dl=0)
@@ -36,11 +42,8 @@ You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/c2n
 ## Working Papers
 
 - **When Style Becomes Substance: The Electoral Effects of Anti-Pluralistic Rhetoric** - C.Pereira, Presented at EPSA and APSA, 2024, 2025. 
-- **Beyond Deductive Approaches: Automated Discovery of Bias Patterns in Political Discourse** - C.Pereira,C.Marangon, Presented at CIS Zurichberg colloquium 2025, TADA, ETH. 
-- **Epistemic Consequences of Conversational AI** - C.Pereira 
-- **Deliberative Transformative Moments: a text approach** - C.Pereira, D. van der Weijden
-- **Online Deliberation of Tempo-30 in Swiss Cities** - C. Sarasua, F. Bachmann, D.Weijden,S. Li,C.Pereira, V. Vuk,M. Steenbergen, A.Bernstein 
-- **Pandemic Effects in Nationalism Dimensions** -   A. Wimmer, P. Singh ,C. Pereira,Z. Fu
+- **Beyond Deductive Approaches: Automated Discovery of Bias Patterns in Political Discourse** - C.Pereira,C.Marangon, Presented at CIS Zurichberg colloquium 2025, TADA 2025, Monash-Paris-Warwick-Zurich-CEPR Text-As-Data Workshop 2025. 
+- **Political Epistemology in Conversational AI** - C.Pereira 
 
 
 # Grants
