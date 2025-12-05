@@ -2,15 +2,18 @@
 layout: default
 title: Home
 ---
-My research examines how rhetoric and communication technologies reshape democracy.
+My research examines how discursive, representational, and technological power reshape democracy:
 
-I begin by isolating the **democratic consequences of rhetoric**, showing how styles like populism and technocracy shape voter attachments beyond policy content. This extends models of political choice by adding a rhetorical dimension. 
+I begin by isolating the **democratic consequences of rhetoric**, showing how styles like populism and technocracy shape voter attachments beyond policy content. This extends models of public opinion by adding a political system-level rhetorical cue—conceptualized as a property of the party communication system—and linking it to political behavior.
 
-I developed a **new computational tool** to detect and track bias in political text, extending the deductive tools with an inductive approach.
 
-Most recently, I explore **political epistemology** in the digital age, analyzing how conversational AI structures knowledge, trust, and disagreement.
+I show that **classification-based methods actively produce greater representational bias than distributional approaches**, demonstrating that methodological choices themselves shape the political visibility of marginal groups.
 
-Across these strands, my work maps how rhetoric, algorithms, and AI transform the conditions of pluralist democracy.
+
+Most recently, I explore the **impact of AI on political knowledge**, showing the epistemic consequences of acquiring political information through conversational interaction.
+
+
+Across these strands, my work conceptualizes **power as a systemic, non-coercive force that structures political behavior, representation, and knowledge**: shaping behavior through rhetorical environments, shaping representation through methodological technologies of classification, and shaping knowledge through technological mediation.
 
 
 My [PhD](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) is supported by a [Swiss National Foundation project on large scale online deliberation]( https://d3-project.ch/science/).
@@ -35,9 +38,9 @@ You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/c2n
 
 ## Working Papers
 
-- **When Style Becomes Substance: The Electoral Effects of Anti-Pluralistic Rhetoric** - C.Pereira, Presented at EPSA and APSA, 2024, 2025. 
-- **Beyond Deductive Approaches: Automated Discovery of Bias Patterns in Political Discourse** - C.Pereira,C.Marangon, Presented at CIS Zurichberg colloquium 2025, TADA 2025, Monash-Paris-Warwick-Zurich-CEPR Text-As-Data Workshop 2025. 
-- **Political Epistemology in Conversational AI** - C.Pereira 
+- **Elite Cues and System Legitimacy: How Populism and Technocracy Shape Electoral Competition** - C.Pereira, Presented at EPSA and APSA, 2024, 2025. 
+- **How Methods Shape Representation: Classification, Distribution, and the Politics of Measurement** - C.Pereira, Presented at CIS Zurichberg colloquium 2025, TADA 2025, Monash-Paris-Warwick-Zurich-CEPR Text-As-Data Workshop 2025. 
+- **Belief Updating through Giving: Conversational AI and Active Epistemic Input** - C.Pereira 
 
 
 # Grants
@@ -77,18 +80,13 @@ You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/c2n
 
 # Experience
 
-- Account Manager, Microsoft - Portugal, 2020-2022
-- Invited Lecturer of Machine Learning, ISEG - Portugal, 2020-2022
 - Data Scientist, Microsoft - EMEA (Spain Based), 2016 - 2020
+- Microsoft Research - Redmond (USA), 2016
+- Invited Lecturer of Machine Learning, ISEG - Portugal, 2020-2022
 
 # Data and Resources
 
-## Datasets
+## Models
 
-- **Text Dataset**: Parliamentary Speeches in the UK House of Commons from 2009-2019 (Populim and Technocracy components score per sentence ). [Download](#)
-- **Text Dataset**: Congress Speeches in the US House of Congress from 1960-2014 (feminine and masculine narratives). [Download](#)
-
-## Packages
-
-- **PopTech**: Language-agnostic transformer classifier for populism and technocracy [available upon publication of paper]. [Git-Hub](#)
-- **biasDetect**: Semi-supervised change point model in text for rare and evolving classes in text (eg: Gender norms)  [available upon publication of paper]. [Git-Hub](#)
+- **PopTech**: Populism and Technocracy text classifier using European attitudinal survey items as ground truth. [Download](#)
+- **SRM**: Structural Role Model to identify marginal classes in text using a distributional approach. Pubblic python package upon publication [Download](#)
