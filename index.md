@@ -20,6 +20,8 @@ My [PhD](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) is suppor
 
 You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/c2ngpkx1rc5o8iq62v1u6/Resume.pdf?rlkey=gutwfqnsc478f1qsrlmoqi6mu&st=52zxyahn&dl=0)
 
+Methods: Machine Learning, Deep Learning, Causal Inference, Instrumental Variables, Text-as-Data
+
 ## Table of Contents
 1. [Publications](#publications)
 2. [Grants](#grants)
@@ -89,4 +91,4 @@ You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/c2n
 ## Models
 
 - **PopTech**: Populism and Technocracy text classifier using European attitudinal survey items as ground truth. [Download](#)
-- **SRM**: Structural Role Model to identify marginal classes in text using a distributional approach. Pubblic python package upon publication [Download](#)
+- **SRM**: Structural Role Model to identify marginal classes in text using a distributional approach. Public python package upon publication [Download](#)
