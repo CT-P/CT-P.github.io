@@ -81,7 +81,7 @@ You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/c2n
 # Experience
 
 - Data Scientist, Microsoft - EMEA (Spain Based), 2016 - 2020
-- Microsoft Research - Redmond (USA), 2016
+- Microsoft Research, Hololens Team - Redmond (USA), 2016
 - Invited Lecturer of Machine Learning, ISEG - Portugal, 2020-2022
 
 # Data and Resources
