@@ -4,16 +4,13 @@ title: Home
 ---
 My research examines how discursive, representational, and technological power reshape democracy:
 
-I begin by isolating the **democratic consequences of rhetoric**, showing how styles like populism and technocracy shape voter attachments beyond policy content. This extends models of public opinion by adding a political system-level rhetorical cue—conceptualized as a property of the party communication system—and linking it to political behavior.
+I begin by isolating the **populist and technocracy rhetoric** from their messages' policy issue, by creating each a classifier. I use words as an instrument to predict populism and technocracy in political discourse and find their effect on voters. I show that populist and technocratic rhetoric function as elite-generated cues of system-level governance change: citizens process these ostensibly opposing rhetorical styles as equivalent signals through peripheral rather than substantive evaluation. Together, these findings challenge grievance-based accounts, demonstrating that political elites can generate anti-pluralist electoral shifts through strategic rhetorical framing independent of underlying citizen distrust, economic hardship, or identity threats.
 
 
-I show that **classification-based methods actively produce greater representational bias than distributional approaches**, demonstrating that methodological choices themselves shape the political visibility of marginal groups.
+I critically assess that classification-based methods cannot identify, and create a **distributional approach to discover silenced narratives in discourse**, adding a methodological tool to measure discursive silence.
 
 
-Most recently, I explore the **impact of AI on political knowledge**, showing the epistemic consequences of acquiring political information through conversational interaction.
-
-
-Across these strands, my work conceptualizes **power as a systemic, non-coercive force that structures political behavior, representation, and knowledge**: shaping behavior through rhetorical environments, shaping representation through methodological technologies of classification, and shaping knowledge through technological mediation.
+Most recently, I explore the **impact of AI on political knowledge**, showing the epistemic consequences of giving, instead of acquiring,  preferences through conversational interaction.
 
 
 My [PhD](https://www.ipz.uzh.ch/de/personen/mitarbeitende/ctrina.html) is supported by a [Swiss National Foundation project on large scale online deliberation]( https://d3-project.ch/science/).
@@ -40,8 +37,8 @@ Methods: Machine Learning, Deep Learning, Causal Inference, Instrumental Variabl
 
 ## Working Papers
 
-- **Elite Cues and System Legitimacy: How Populism and Technocracy Shape Electoral Competition** - C.Pereira, Presented at EPSA and APSA, 2024, 2025. 
-- **How Methods Shape Representation: Classification, Distribution, and the Politics of Measurement** - C.Pereira, Presented at CIS Zurichberg colloquium 2025, TADA 2025, Monash-Paris-Warwick-Zurich-CEPR Text-As-Data Workshop 2025. 
+- **Populist and Technocratic Rhetoric and Far-Right Electoral Success: Evidence from UK Parliamentary Discourse** - C.Pereira, Presented at EPSA and APSA, 2024, 2025. 
+- **Relational Silence: Models for Describing and Inferring Discourse Asymmetries** - C.Pereira, Presented at CIS Zurichberg colloquium 2025, TADA 2025, Monash-Paris-Warwick-Zurich-CEPR Text-As-Data Workshop 2025. 
 - **Belief Updating through Giving: Conversational AI and Active Epistemic Input** - C.Pereira 
 
 
