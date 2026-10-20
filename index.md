@@ -3,13 +3,13 @@ layout: default
 title: Home
 ---
 
-I am a Postdoc in Political Science at Sciences Po Paris. I previously completed my PhD at the University of Zurich, and before that worked as a data scientist at Microsoft.
+I am a Postdoc in Political Science at Sciences Po Paris. I previously completed my PhD at the University of Zurich, and before that worked as a data scientist at Microsoft (Redmond and Madrid).
 
 My research is focused on value pluralism and political communication. I explore pressing contemporary challenges to democracy, both theoretical and practical. This has included the rise of anti-pluralist claims and their formal inclusion in representative institutions, the capacity of deliberative democracy to answer them, and the measurement of how discursive representation evolves in political text.
 
 - **Democratic Theory**: Deliberative democracy and value pluralism, focusing on will formation and discursive representation.
 - **Political Communication**: Rhetorical mechanisms beyond persuasion, focusing on moralisation and elite polarisation.
-- **Computational Text Analysis**: Measurement of normative concepts, focusing on the evolution of discourses and social group representation.
+- **Computational Text Analysis**: Measurement of normative concepts, focusing on the evolution of discourses and social groups representation.
 
 You can view my CV updated on May 2025 [here](https://www.dropbox.com/scl/fi/c2ngpkx1rc5o8iq62v1u6/Resume.pdf?rlkey=gutwfqnsc478f1qsrlmoqi6mu&st=52zxyahn&dl=0)
 
